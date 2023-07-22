@@ -8,3 +8,4 @@
 
 ![Skills](https://skillicons.dev/icons?i=apollo,graphql,nestjs,mysql,postgres,git,docker,js,py,sass,java,spring,supabase)
 
+You can contact me [here](mailto:francisco.cordeiro.business@gmail.com)
