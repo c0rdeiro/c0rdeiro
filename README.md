@@ -31,10 +31,14 @@
 - [**Guardians Website**](https://guardians.sentience.id/) - dapp to stake $SOPH
 - ...🧑‍🍳cooking
 
+**ETHToronto Hackathon 2023 - All Your Base**
+- **Key Responsibilities:** Developed a map-based application to integrate with Galaxer game.
+- **Source Code:** [GitHub Repository](https://github.com/GalaxerGames/AllYourBase)
+
 **IVX.fi Web3 Platform**
 - **Key Responsibilities:** Implementing Figma mockups to blockchain interactions in an agile manner. Working with websockets to get a seamless user experience with live data 
 - **Source Code:** [GitHub Repository](https://github.com/c0rdeiro/amm_frontend)
 
-**ETHGlobal Lisbon Hackathon - Kangaroo Court**
+**ETHGlobal Lisbon Hackathon 2023 - Kangaroo Court**
 - **Key Responsibilities:** Developed a blockchain-based solution using cutting-edge Web3 technologies under time constraints.
 - **Source Code:** [GitHub Repository](https://github.com/Kangaroo-Court/kc-frontend)
