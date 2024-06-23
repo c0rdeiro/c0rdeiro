@@ -6,7 +6,6 @@
 - 🌱 I’m constantly learning and currently diving deeper into advanced React and blockchain technologies.
 - 💼 Experienced in Full Stack Development, I thrive in startup environments where autonomy and a fast-paced workflow are essential.
 - 👯 I’m looking to collaborate on innovative projects, especially those focused on blockchain and user empowerment.
-- 💬 Ask me about React, Web3 development, or anything about Frontend technologies!
 - 📫 How to reach me: [francisco.cordeiro.business@gmail.com](mailto:francisco.cordeiro.business@gmail.com)
 - ⚡ Love sports (currently I enjoy padel w/ friends) and Formula 1 🏎️
 - 💭 Fun fact: my last name actually means Lamb 🐑
