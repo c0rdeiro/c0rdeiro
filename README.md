@@ -29,6 +29,7 @@
 - [**Sophiaverse Website:**](https://www.sophiaverse.ai/) - main website of Sophiaverse AI
 - [**SentienceId Website**](https://sentience.id/) - website for the sentienceId wallet
 - [**Guardians Website**](https://guardians.sentience.id/) - dapp to stake $SOPH
+- [**Forging Website**](https://forge.sophiaverse.ai/) - dapp for Sentience NFT holders to claim their real-world items
 - ...🧑‍🍳cooking
 
 **ETHToronto Hackathon 2023 - All Your Base**
