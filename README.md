@@ -22,7 +22,7 @@
 - Relational DB's
 - Drizzle/Prisma/TypeORM
 
-#### Some work I've done
+#### Some work I've done on web3 ecosystem
 
 **SophiaDAO**
 - **Key Responsibilities:** Lead the frontend team, focusing on website development and the implementation of responsive designs from Figma. Developed simple subgraphs and multiple multichain products.
@@ -31,6 +31,10 @@
 - [**Guardians Website**](https://guardians.sentience.id/) - dapp to stake $SOPH
 - [**Forging Website**](https://forge.sophiaverse.ai/) - dapp for Sentience NFT holders to claim their real-world items
 - ...🧑‍🍳cooking
+
+**ETHGlobal Brussels 2024 - WaffleFinance**
+- **Key Responsabilities:** Frontend implementation and integration with contracts
+- Winner of best DeFi App on top of PancakeSwap [PancakeSwap Tweet](https://x.com/PancakeSwap/status/1812584895127998580?t=QtIKzQCJU-9_IMiHn85yUg&s=19)
 
 **ETHToronto Hackathon 2023 - All Your Base**
 - **Key Responsibilities:** Developed a map-based application to integrate with Galaxer game.
