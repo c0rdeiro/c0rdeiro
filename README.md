@@ -24,8 +24,8 @@
 
 #### Some work I've done on web3 ecosystem
 
-**SophiaDAO**
-- **Key Responsibilities:** Lead the frontend team, focusing on website development and the implementation of responsive designs from Figma. Developed simple subgraphs and multiple multichain products.
+**SingularityNET**
+- **Key Responsibilities:** Lead the frontend team, focusing on website development and the implementation of responsive designs from Figma. Developed subgraphs and multiple multichain products.
 - [**Sophiaverse Website:**](https://www.sophiaverse.ai/) - main website of Sophiaverse AI
 - [**SentienceId Website**](https://sentience.id/) - website for the sentienceId wallet
 - [**Guardians Website**](https://guardians.sentience.id/) - dapp to stake $SOPH
