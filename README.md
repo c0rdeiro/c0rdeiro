@@ -30,7 +30,7 @@
 - [**SentienceId Website**](https://sentience.id/) - website for the sentienceId wallet
 - [**Guardians Website**](https://guardians.sentience.id/) - dapp to stake $SOPH
 - [**Forging Website**](https://forge.sophiaverse.ai/) - dapp for Sentience NFT holders to claim their real-world items
-- [**heir/es**](https://heir.es/) - dapp with a deadman switch for Sentience ecosystem
+- [**heir/es**](https://sail.heir.es/) - dapp with a deadman switch for Sentience ecosystem
 - ...🧑‍🍳cooking
 
 **ETHGlobal Brussels 2024 - WaffleFinance**
