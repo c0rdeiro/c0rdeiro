@@ -2,7 +2,7 @@
 
 #### A little about me
 - 🎓 BSc in Computer Engineering currently exploring the forefront of Web3 technologies.
-- 🔭 I'm currently working on building responsive and efficient Web3 applications with SophiaDAO.
+- 🔭 I'm currently working on building responsive and efficient Web3 applications with SingularityNET.
 - 🌱 I’m constantly learning and currently diving deeper into advanced React and blockchain technologies.
 - 💼 Experienced in Full Stack Development, I thrive in startup environments where autonomy and a fast-paced workflow are essential.
 - 👯 I’m looking to collaborate on innovative projects, especially those focused on blockchain and user empowerment.
