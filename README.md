@@ -16,6 +16,7 @@
 - Viem 2.x
 - Wagmi 2.x
 - Tailwind CSS
+- React Query (now TanStack Query)
 - GraphQL
 - Zustand
 - Apollo Client
